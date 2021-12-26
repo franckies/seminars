@@ -2,6 +2,8 @@
 ***Speaker***: Francesco Semeraro, [Cluster Azure Reply](https://www.reply.com/cluster-reply/en/)
 
 ***When***: Tuesday, Dec 14, 2021, 10.00 - 11.30
+
+***Registration***: [YouTube link](https://youtu.be/0mSbfpS_9yY)
 ## Abstract
 As many organizations move to a digital enterprise model in which more and more data is exposed via APIs, an API management technology is required to alleviate the effort of maintaining multiple APIs that are produced and published within the company. API administration technologies need to support hybrid scenarios, in which some portions of the platform are cloud-based, while others are still on-premise. This seminar will analyse the advantages of setting up an hybrid API management solution and it will present a Proof-of-Concept (PoC) implementation based on Azure API management. Finally, an hands-on session will explore all the components involved in an hybrid API management solution from the Azure portal to the on-premise Kubernetes cluster.
 
